@@ -1,0 +1,29 @@
+App Icon Design for Messenger App:
+
+Style: Modern, clean messenger icon
+Colors: 
+- Primary: #0084FF (Facebook Messenger blue)
+- Secondary: #FFFFFF (white)
+- Background: Gradient from #0084FF to #00C6FF
+
+Design Elements:
+1. Circular background with gradient (blue to light blue)
+2. White chat bubble icon in center
+3. Small notification dot (optional)
+
+Recommended Size: 1024x1024 pixels (will be automatically resized)
+
+Alternative Simple Design:
+- Square with rounded corners
+- Blue background (#0084FF)
+- White speech bubble icon
+- Clean, minimal look
+
+You can create this icon using:
+- Canva (free online tool)
+- GIMP (free software)
+- Adobe Illustrator
+- Or any online icon generator
+
+Save as: app_icon.png (1024x1024 pixels)
+Place in: assets/icon/app_icon.png
